@@ -4,7 +4,7 @@
   <br>
   <br>
   <p align="center">
-  <img src="https://img.shields.io/badge/✨ Welcome to My Enchanted Code Garden ✨-9B87F5?style=for-the-badge&logoColor=white&labelColor=000000&color=9B87F5" />
+  <img src="https://img.shields.io/badge/✨ Welcome to My Enchanted Code Garden ✨-8B5CF6?style=for-the-badge&logoColor=white&labelColor=000000&color=8B5CF6" />
 </p>
 </div>
 
@@ -86,12 +86,12 @@
 
 <div align="center">
   <br/>
-  <img src="https://img.shields.io/badge/⊹₊ Take a byte out of code & chase your own carrot 🥕 – Me, probably ✨-9B87F5?style=flat-square&labelColor=transparent" />
+  <img src="https://img.shields.io/badge/⊹₊ Take a byte out of code & chase your own carrot 🥕 – Me, probably ✨-8B5CF6?style=flat-square&labelColor=transparent" />
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/carr-o-t">
-    <img src="https://img.shields.io/badge/✧･･ Crafted with ✨ by bytethecarrot ･･✧-9B87F5?style=flat-square&labelColor=transparent" />
+    <img src="https://img.shields.io/badge/✧･･ Crafted with ✨ by bytethecarrot ･･✧-8B5CF6?style=flat-square&labelColor=transparent" />
   </a>
 </div>
 
