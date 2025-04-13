@@ -6,15 +6,12 @@
   <p align="center">
   <img src="https://img.shields.io/badge/✨ Welcome to My Enchanted Code Garden ✨-9B87F5?style=for-the-badge&logoColor=white&labelColor=000000&color=9B87F5" />
 </p>
-  <p align="center">
-    ・❥・――――――――・✧・――――――――・❥・
-  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&height=35&lines=Full-stack+Software+Engineer+crafting+digital+spells+💻✨;Cultivating+magical+web+experiences+🌱;Turning+code+into+delightful+realities+🌿;Sprinkling+pixie+dust+on+every+commit+🔮" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=7B68EE&center=true&vCenter=true&width=700&height=35&lines=Full-stack+Software+Engineer+crafting+digital+spells+💻✨;Cultivating+magical+web+experiences+🌱;Turning+code+into+delightful+realities+🌿;Sprinkling+pixie+dust+on+every+commit+🔮" />
 
 </div>
 
