@@ -67,7 +67,7 @@
 
 ### 🌟 Send a Magical Message
 <div align="center">
-  <a href="mailto:dev@bytethecarrot.dev">
+  <a href="mailto:bytethecarrot@yahoo.com">
     <img src="https://img.shields.io/badge/Send%20an%20Owl-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- TODO: add linkedin profile here  -->
@@ -77,7 +77,7 @@
   <a href="https://x.com/bytethecarrot">
     <img src="https://img.shields.io/badge/Enchanted%20Tweets-7E69AB?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/carr-o-t">
     <img src="https://img.shields.io/badge/Spell%20Repository-6E59A5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
